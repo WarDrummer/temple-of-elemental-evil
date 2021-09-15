@@ -1,0 +1,1 @@
+cd ~/Library/Mobile\ Documents/iCloud~md~obsidian/Documents/Temple\ of\ Elemental\ Evil/

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Characters/Ethnicities/Baklunish.md",
+            "file": "_System_/Path.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Ethnicities/Baklunish.md",
+                "file": "_System_/Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "e7ec42eda183a59d",
   "lastOpenFiles": [
+    "_System_/Untitled.md",
     "Characters/Ethnicities/Baklunish.md",
     "Sessions/2021_09_11_Session.md",
     "_Files_/Rekanar.png",
@@ -96,7 +97,6 @@
     "Items/Drift Globe.md",
     "Magic/Schools/Evocation.md",
     "Notes/Rumors.md",
-    "Notes/Introduction.md",
-    "Drift Globe.md"
+    "Notes/Introduction.md"
   ]
 }
