@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "ea3ff5476aeda958",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7ec42eda183a59d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Ethnicities/Baklunish.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee85704983b2d584",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fa9a78a30c6c271",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79d3ca77b8f4f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1d3e1709d09bee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4d69402b0c81f9d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "55bfad5325553abc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfed1974e05fa186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Ethnicities/Baklunish.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7ec42eda183a59d",
+  "lastOpenFiles": [
+    "Characters/Ethnicities/Baklunish.md",
+    "Sessions/2021_09_11_Session.md",
+    "_Files_/Rekanar.png",
+    "_Files_/Hommlet_to_Nulb.jpg",
+    "_Files_/Hommlet.png",
+    "Items/Drift Globe.md",
+    "Magic/Schools/Evocation.md",
+    "Notes/Rumors.md",
+    "Notes/Introduction.md",
+    "Drift Globe.md"
+  ]
+}
