@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ee85704983b2d584",
+    "id": "0f1be87a4b5e80a9",
     "type": "split",
     "children": [
       {
-        "id": "0fa9a78a30c6c271",
+        "id": "97ad72456ccff084",
         "type": "tabs",
         "children": [
           {
-            "id": "79d3ca77b8f4f9a7",
+            "id": "3f6f3d4c392edfbc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "b1d3e1709d09bee3",
+            "id": "eb88250d8b4e010e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,15 +55,15 @@
     "width": 300
   },
   "right": {
-    "id": "4d69402b0c81f9d7",
+    "id": "a6998da32b43c210",
     "type": "split",
     "children": [
       {
-        "id": "55bfad5325553abc",
+        "id": "8917dda1a7b96bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "bfed1974e05fa186",
+            "id": "10be5de25cbad737",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -88,15 +88,15 @@
   },
   "active": "e7ec42eda183a59d",
   "lastOpenFiles": [
-    "_System_/Untitled.md",
-    "Characters/Ethnicities/Baklunish.md",
-    "Sessions/2021_09_11_Session.md",
-    "_Files_/Rekanar.png",
-    "_Files_/Hommlet_to_Nulb.jpg",
-    "_Files_/Hommlet.png",
-    "Items/Drift Globe.md",
-    "Magic/Schools/Evocation.md",
-    "Notes/Rumors.md",
-    "Notes/Introduction.md"
+    "_System_/Path.md",
+    "Tyranny of Dragons notes.md",
+    "2021_09_26_Session.md",
+    "Links.md",
+    "Characters/PCs/Rekanar.md",
+    "Creature Details/Alignment/NG.md",
+    "Creature Details/Alignment/LN.md",
+    "Creature Details/Alignment/LG.md",
+    "Characters/NPCs/Ostler Gundigoot.md",
+    "Characters/NPCs/Y’Dey.md"
   ]
 }
