@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_System_/Path.md",
+            "file": "Links.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0f1be87a4b5e80a9",
+    "id": "570cce7f7b10d75f",
     "type": "split",
     "children": [
       {
-        "id": "97ad72456ccff084",
+        "id": "316981e213a0e2ad",
         "type": "tabs",
         "children": [
           {
-            "id": "3f6f3d4c392edfbc",
+            "id": "7a8734172cbd5a8b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "eb88250d8b4e010e",
+            "id": "2dcbb702dd8e53f8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "a6998da32b43c210",
+    "id": "9aa1ba9cf757cf77",
     "type": "split",
     "children": [
       {
-        "id": "8917dda1a7b96bbe",
+        "id": "61ac0fee7655db4d",
         "type": "tabs",
         "children": [
           {
-            "id": "10be5de25cbad737",
+            "id": "a4aeb90c874a2f24",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_System_/Path.md",
+                "file": "Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "e7ec42eda183a59d",
   "lastOpenFiles": [
-    "_System_/Path.md",
-    "Tyranny of Dragons notes.md",
-    "2021_09_26_Session.md",
     "Links.md",
-    "Characters/PCs/Rekanar.md",
-    "Creature Details/Alignment/NG.md",
-    "Creature Details/Alignment/LN.md",
-    "Creature Details/Alignment/LG.md",
-    "Characters/NPCs/Ostler Gundigoot.md",
-    "Characters/NPCs/Y’Dey.md"
+    "Sessions/2021_09_11_Session.md",
+    "Sessions/2021_09_26_Session.md",
+    "Sessions/2021_10_10_Session.md",
+    "Dieties/Wee Jas.md",
+    "Notes/Rumors.md",
+    "Notes/Introduction.md",
+    "Untitled.md",
+    "_System_/Path.md",
+    "Tyranny of Dragons notes.md"
   ]
 }
