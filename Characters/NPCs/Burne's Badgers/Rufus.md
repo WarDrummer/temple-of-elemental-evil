@@ -1,3 +1,4 @@
+#burnes_badgers 
+#fighter
 
-- Fighter
 - Guard at [[Burne's Tower]]

@@ -9,4 +9,4 @@ https://www.dndbeyond.com/campaigns/2296084
 https://github.com/WarDrummer/temple-of-elemental-evil
 
 ### iCloud
-cd ~/Library/Mobile Documents/iCloud~md~obsidian/Documents
+cd "~/Library/Mobile Documents/iCloud~md~obsidian/Documents"

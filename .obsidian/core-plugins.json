@@ -5,11 +5,12 @@
   "graph",
   "backlink",
   "page-preview",
+  "daily-notes",
+  "templates",
   "note-composer",
   "command-palette",
   "markdown-importer",
   "word-count",
   "open-with-default-app",
-  "file-recovery",
-  "sync"
+  "file-recovery"
 ]

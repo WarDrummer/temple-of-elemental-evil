@@ -1,4 +1,0 @@
-
-
-### Members
-- [[Elmo]]

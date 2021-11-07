@@ -1,6 +1,6 @@
 ### General
 **Domains** death, vanity, and law
-**Alignment** [[LN]]
+**Alignment** [[Lawful-Neutral]]
 **Allies** [[Boccob]]
 **Enemies** [[Nerull]]
 

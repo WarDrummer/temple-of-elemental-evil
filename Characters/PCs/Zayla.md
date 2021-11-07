@@ -1,10 +1,11 @@
 
 ### General
+![[zayla.png]]
 
 Player [[Kari Whitaker]]
-Race [[Human]]
-Class [[Monk]]
-Alignment [[LG]]
+Race #human
+Class #monk
+Alignment #lawful-good
 Faith
 Languages #common #dwarvish #elvish #orcish 
 

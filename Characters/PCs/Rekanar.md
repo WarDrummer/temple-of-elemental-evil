@@ -1,11 +1,12 @@
 
 ### General
-![[Rekanar.png]]
+![[RekanarToken.png]]
+
 
 Player [[Jason Pike]]
-Race [[Half-Orc]]
-Class [[Cleric (Grave Domain)]]
-Alignment [[LN]]
+Race #half-orc
+Class [[Cleric (Grave Domain)]] #cleric
+Alignment #lawful-neutral
 Faith [[Wee Jas]]
 Languages #common #orcish
 
