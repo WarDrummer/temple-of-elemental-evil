@@ -10,6 +10,9 @@ Alignment #lawful-neutral
 Faith [[Wee Jas]]
 Languages #common #orcish
 
+Senses
+#darkvision 60ft
+
 ##### Secondary Skills
 Bowyer/Fletcher - can make bows and arrows
 

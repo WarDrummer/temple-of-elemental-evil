@@ -9,5 +9,8 @@ Alignment #neutral
 Faith
 Languages #common #deep_speech #elvish #primordial #sylvan
 
+Senses
+#darkvision 60ft
+
 ### Notes
 - Well-groomed

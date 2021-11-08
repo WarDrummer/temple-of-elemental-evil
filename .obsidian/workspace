@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Links.md",
+            "file": "Sessions/2021_11_07.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#lawful-neutral",
+                "query": "druid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Links.md",
+                "file": "Sessions/2021_11_07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "9b0dfa5366178707",
   "lastOpenFiles": [
-    "Links.md",
+    "Sessions/2021_11_07.md",
+    "Sessions/2021_10_24.md",
+    "Gnomish Ring of Gab.md",
+    "Roll20 Macros.md",
+    "Characters/Groups/Moathouse Raiding Party.md",
+    "Characters/NPCs/Jaroo Ashstaff.md",
     "Characters/PCs/Jonah.md",
     "Characters/PCs/Rekanar.md",
     "Characters/PCs/Zayla.md",
-    "_Files_/RekanarToken.png",
-    "_Files_/Rekanar.png",
-    "Magic/Schools/Illusion.md",
-    "Magic/Schools/Enchantment.md",
-    "Magic/Schools/Divination.md",
-    "Magic/Schools/Transmutation.md"
+    "Characters/PCs/Concept/Ketzy.md"
   ]
 }
